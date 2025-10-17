@@ -22,6 +22,7 @@ La aplicación está construida con una base sólida en HTML5, estilos personali
 La primera versión hace uso de Bootstrap para un diseño responsivo y moderno, complementado con estilos propios para personalizar la apariencia tipo “plataforma de streaming”. El código JavaScript realiza peticiones fetch a la API para mostrar contenido dinámico en la página
 
 ---
-
+## Navegacion
 - 🔗 [Varsion_1](Version1.md)
-- ❌ [Version_2](archivo/version2)
+- 🔗 [Version_2](Version2.md)
+- ❌ [Version_3](arvhivo/Version3)
